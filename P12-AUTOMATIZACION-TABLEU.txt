@@ -1,0 +1,12 @@
+
+Acceda al Dashboard en el servidor de Tableau Public mediante el link:
+https://public.tableau.com/views/ProyectoS12_17477814824440/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+En el archivo trending_by_time.csv se encuentra la base de datos fuente para el funcionamiento del dashboard.
+
+En el PDF anexo encontrata una presentación con las características técnicas del dashboard 
+y una segunda sección con las respuestas a las cuestionas planteadas por el equipo de marketing.
+
+Dicha presentación se encuentra en drive, entrando al siguiente enlace:
+https://docs.google.com/presentation/d/1CGd1WNFLl_CN6k2m11X5WfR1tpsivFexi4OJPhQAz1o/edit?usp=sharing
+
